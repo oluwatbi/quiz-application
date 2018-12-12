@@ -1,0 +1,54 @@
+Which is the best language?
+All
+python
+java
+javaScript
+A
+What is oop?
+Object Oriented Programming
+Oooo Oooo Pp
+Only On Purpose
+No Idea
+A
+Which is not a programming language?
+Ruby on Rails
+C#
+perl
+django
+D
+Which of these language uses "$" to declear a variable
+Python
+Java
+Golang
+PHP
+D
+Functions in a class are often refer to as?
+Function
+Methods
+Class Function
+NONE
+B
+Which is the correct operator for x to the power of y?
+x^y
+x**y
+None
+x^^y
+B
+What is the output of this expression, 3*1**3?
+27
+9
+3
+1
+C
+Which of these is not a core data type in python?
+Lists
+Dictionary
+Tuples
+Class
+D
+What is the type of inf in python?
+Boolean
+Integer
+Float
+Complex
+C
